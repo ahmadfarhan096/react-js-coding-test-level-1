@@ -1,0 +1,19 @@
+.list {
+    list-style: none;
+}
+
+.item {
+    padding: 5px 10px;
+}
+
+.item span:hover {
+    cursor: pointer;
+    color: yellow;
+}
+
+.search-bar {
+    margin-top: 10px;
+    padding: 3px 5px;
+    width: 300px;
+    border: none;
+}
